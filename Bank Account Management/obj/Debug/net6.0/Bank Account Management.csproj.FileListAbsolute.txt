@@ -1,0 +1,15 @@
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\bin\Debug\net6.0\Bank Account Management.exe
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\bin\Debug\net6.0\Bank Account Management.deps.json
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\bin\Debug\net6.0\Bank Account Management.runtimeconfig.json
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\bin\Debug\net6.0\Bank Account Management.dll
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\bin\Debug\net6.0\Bank Account Management.pdb
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\Bank Account Management.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\Bank Account Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\Bank Account Management.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\Bank Account Management.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\Bank Account Management.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\Bank Account Management.dll
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\refint\Bank Account Management.dll
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\Bank Account Management.pdb
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\Bank Account Management.genruntimeconfig.cache
+C:\Users\HP\Source\Repos\Rogerjw\Objectivity-Challenge\Bank Account Management\obj\Debug\net6.0\ref\Bank Account Management.dll
